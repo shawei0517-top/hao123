@@ -7,9 +7,9 @@ a img{ border:none;}
 .red{ color:#f45;}
 .green{ color:#51853F;}
 .kill{ display:block; height:0; overflow:hidden; clear:both;}
-.inabtop{ width:960px; height:110px; background:#BEE4F9 url("images/ibblabanner.jpg") no-repeat; margin:0 auto; position:relative;}
+.inabtop{ width:960px; height:60px; background:#BEE4F9 url("images/ibblabanner.jpg") no-repeat; margin:0 auto; position:relative;}
 .inabtop img{ position:absolute; top:32px; left:72px; border:none;}
-.inabtop p{ position:absolute; top:60px; left:233px; font:normal 12px/30px verdana; color:#fff; text-shadow:1px 1px #888;}
+.inabtop p{ position:absolute; top:15px; left:190px; font:normal 30px/30px verdana; color:#fff; text-shadow:1px 1px #888;}
 .sp10{ height:10px; display:block;}
 .ablayout{ width:960px; margin:0 auto;}
 .ableft{ width:138px; float:left;}
